@@ -4,4 +4,4 @@
 What content do I want to publish? I have a long list of ideas. I've been carrying those around in front of me for years. Many of the topics are now outdated. Therefore, I have a new approach. I'm actually going to use it like a logbook. Like the captain on the Enterprise, I say "Engage."
 
 %[https://www.youtube.com/watch?v=3jd1Ih8EUmw]
-%%[designmode]
+
