@@ -17,12 +17,12 @@ function add(a, b) {
     return a + b;
 }
 
-// Subratcion of two numbers
+// Subtraction of two numbers
 function subtract(a, b) {
   return a - b;
 }
 
-// Muliply the first argument by the second
+// Multiply the first argument by the second
 function multiply(a, b) {
   return a * b;
 }
@@ -32,7 +32,7 @@ function divide(a, b) {
   return a / b;
 }
 
-// Deligate two numbers and there operant to the correct function
+// Delegate two numbers and their operant to the correct function
 function calculator(a, b, operator) {
   switch (operator) {
     case '+':
@@ -54,7 +54,7 @@ function calculator(a, b, operator) {
 ```javascript
 // caclulator which can add, subtract, multiply and divide two numbers
 function calculator(a, b, operator) {
-    var result = 0;
+    let result = 0;
     switch (operator) {
         case "+":
             result = a + b;
@@ -79,7 +79,10 @@ If you start to implement the new functions in that way, you will run in trouble
 
 ![Keep it simple, Stupid](https://i.giphy.com/nC85rvTM2qrbVotTRR.gif)
 
-If someone in the future ask you what the hell KISS means, do you know the answer? Probably not when it comes to the details because not everyone likes it as colourful as you do. Pair programming can help you and your friends to get better programmer with (a) KISS 💋!
+If someone in the future ask you what the hell KISS means, do you know the answer? Probably not when it comes to the details because not everyone likes it as colourful as you do. Pair programming can help you and your friends to get better programmer with (a) KISS 💋
+
+1. Your code should be easy to read
+2. The complexity (nested <=3) should be low
 
 ## Question
 
