@@ -3,20 +3,17 @@
 ## Excuses to do it
 
 - "It's another project. I don't know much about it. Don't wanna break something, so I just copied it."
-- "I have not time, maybe later …"
+- "I don't have time, maybe later …"
 - "Maybe later on, I want to have something different in each function/template/class, so it's better to copy it."
-
 
 ## Advantages - to keep it DRY
 
-- If you have to change something later on, you may have to do it twice (or even more times) to achieve your goal. So it is easier to maintain.
-- Less code - is better code.  Just remember, if you copy something, you must copy the tests accordingly! You do test, don't you?
+- If you have to change something later on, you may have to do it twice (or even multiple times) to achieve your goal. So it is easier to maintain.
+- Less code - is better code.  Just remember, if you copy something, you must copy the tests as well! You do test, don't you? 🤨
 
+## Ways to take care about it without even thinking
 
-
-## Ways to take care about without even think about it
-
-**Automatization** is the key. Not matter which language do you use in your current project, there is a _copy past detector_ out there. There are some for specific languages:
+**Automatization** is the key. No matter which language do you use in your current project, there is a _copy paste detector_ out there. There are some for specific languages:
 
 - JavaScript  [jscpd](https://www.npmjs.com/package/jscpd) 
 - PHP  [phpcpd](https://phpqa.io/projects/phpcpd.html) 
@@ -37,7 +34,7 @@ Easy to install and simple to use. You can even export machine-readable reports 
 
 ![Dry not shaken](https://i.imgflip.com/5hn72r.jpg)
 
-It doesn't take much effort to keep things dry. Just pull up your pens and take care of it! Automation with tests and copy-and-paste detectors can help to improve your code quality and the maintainability of your software.
+It doesn't take much effort to keep things dry. Just pull up your pants and take care of it! Automation with tests and copy-and-paste detectors can help to improve your code quality and the maintainability of your software.
 
 
 ## Questions
