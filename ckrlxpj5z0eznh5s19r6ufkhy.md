@@ -1,4 +1,4 @@
-## DRY – Design Pattern
+## DRY – design pattern
 
 ## Excuses to do it
 
@@ -37,7 +37,7 @@ Easy to install and simple to use. You can even export machine-readable reports 
 
 ![Dry not shaken](https://i.imgflip.com/5hn72r.jpg)
 
-It doesn't take much effort to keep things dry. Just pull up your pens and take care of it! Automation with tests and copy-and-paste detectors can help improve your code quality and the maintainability of your software.
+It doesn't take much effort to keep things dry. Just pull up your pens and take care of it! Automation with tests and copy-and-paste detectors can help to improve your code quality and the maintainability of your software.
 
 
 ## Questions
