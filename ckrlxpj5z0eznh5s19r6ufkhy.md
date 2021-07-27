@@ -1,4 +1,4 @@
-## DRY 🍸️ – Design Pattern
+## DRY – Design Pattern
 
 ## Excuses to do it
 
