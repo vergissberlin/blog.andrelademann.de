@@ -1,4 +1,4 @@
-## KISS 😘 – Design pattern
+## KISS 😘 – design pattern
 
 Yah, that's a very emotional speech for a programming design pattern. As a side note, it tells us about the many stories in which they have struggled through complex programming code of their colleagues or even themselves from the past.
 **keep it small and simple** describes it a little better, but it sounds not so remarkable.
