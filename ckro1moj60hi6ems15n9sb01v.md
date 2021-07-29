@@ -1,9 +1,9 @@
-## VS Code includes GitHub CoPilot  and I just love it!
+## VS Code includes GitHub's CoPilot  and I just love it!
 
 
 The year is 2021, and  [Elon Musk](https://twitter.com/elonmusk)  is so  [scared about AI](https://www.youtube.com/watch?v=KdTTeR4TyMc) and its danger to humanity that he is pushing to build [big rockets](https://en.wikipedia.org/wiki/SpaceX_Starship) 🚀 to land on Mars as soon as possible. And he has to know it, he is one of the investors in *OpenAI*, a company (largely owned by Microsoft) that has developed an AI program called [GPT-3](https://en.wikipedia.org/wiki/GPT-3).
-This AI is now used by GitHub in their editor *Visual Studio Code* to write code, based on comments we write in the document.
-To this day, most programmers do not use this technology to write their code. Everything is *handwritten* (more or less, or copied from somewhere on the net). I imagine that in the near future we will smile about this as much as about programmers with [real bugs](https://blog.patracompany.com/the-history-of-the-computer-bug) and [punch cards](https://en.wikipedia.org/wiki/Punched_card). 🤣
+This AI is now used by GitHub in Microsoft's editor *Visual Studio Code* to write code, based on comments we write in the document.
+To this day, most programmers do not use this technology to write their code. Everything is *handwritten* (more or less, or copied from somewhere on the net). I imagine that in the near future, we will smile about this as much as about programmers with [real bugs](https://blog.patracompany.com/the-history-of-the-computer-bug) and [punch cards](https://en.wikipedia.org/wiki/Punched_card). 🤣
 
 ![Punch card reader](https://media.giphy.com/media/l0HlMDr5SOKGpNu5a/source.gif)
 
