@@ -1,6 +1,6 @@
 ## Trainees in the IT industry in Germany
 
-Today I was having lunch with IT colleagues and we were talking about our trainee. One colleague who previously worked in another industry thought that his manner was inappropriate for a trainee. "When I was an apprentice, I couldn't have afforded that." This is a culture that I have never experienced in IT companies.
+Today I was having lunch with IT colleagues and we were talking about our trainee. One colleague who previously worked in another industry thought that his manner was inappropriate for a trainee. When I was an apprentice, I could not have allowed myself to disagree when most of the colleagues had a different opinion." This is a culture that I did not have experienced in IT companies yet.
 If someone says "Is PHP the right language to solve the problem?" then it's good for us to think about it again. Even if the answer is "yes" afterwards, it's good to question yourself again and again and even more so when the question comes from a trainee who has a fresh perspective on things.
 After thinking about it for a while, I have come to the conclusion that **nay-sayers promote innovation even if they are sometimes annoying**. Yay-sayers are just as important for getting things done. As always, it depends on a good mix in the team. Like yin and yang.
 
