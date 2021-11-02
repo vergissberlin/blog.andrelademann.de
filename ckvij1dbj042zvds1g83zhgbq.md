@@ -6,7 +6,7 @@ After thinking about it for a while, I have come to the conclusion that **nay-sa
 
 ![Just say no](https://i.giphy.com/media/Drm4jtLn5SWwFaimGV/giphy.webp)
 
-In an industry with complex problems, we need people who think and act independently. In the Wiki of Netresearch there is an appropriate graphic that describes the company culture well. Or the aspired corporate culture as presented self-critically.
+In an industry with complex problems, we need people who think and act independently. In the wiki of my employer  [Netresearch](https://netresearch.de)  there is an appropriate graphic that describes the company culture well. Or the aspired corporate culture as presented self-critically.
 
 ![Alignment enables autonomy.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1635883368490/H8lBdKCA4.png)
 
