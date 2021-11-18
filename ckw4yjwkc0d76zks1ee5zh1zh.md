@@ -37,7 +37,7 @@ to then exclude the files that we really want to have versioned. You can specify
 !/README.md
 ```
 
-**Beware!** There is one special thing to note here. All files are really excluded. Including the `.gitignore` file itself. We must therefore also exclude this from the list of wanted files.
+**Beware!** There is one special thing to note here. All files are really excluded. Including the `.gitignore` file itself. We must therefore also explicitly add it to the list of wanted files.
 
 ```
 # Ignore all files
