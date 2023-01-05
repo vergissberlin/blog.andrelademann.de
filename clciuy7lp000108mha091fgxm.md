@@ -1,7 +1,5 @@
 # Custom ChatGPT with OpenAI API
 
-[https://github.com/vergissberlin/example-openai-vuejs](https://github.com/vergissberlin/example-openai-vuejs)
-
 OpenAI's API is surprisingly easy to use. It is no different from other REST APIs. So integrating AI into your own software is easy, and we will see AI being integrated into more and more applications. Be it in ticket systems, email clients, content management systems (CMS) or programs to help with tax returns. Wherever there is a lot of text to be written, AI will be indispensable.  
 To test the integration, I developed my own chat with an AI:
 
@@ -9,8 +7,8 @@ To test the integration, I developed my own chat with an AI:
 
 ## Wanna know how?
 
-For a chat with a bot, all you need is a GET request that contains the request and an API key. I decided to route the request through a proxy so that I don't have to make my API key public.  
-  
+For a chat with a bot, all you need is a GET request that contains the request and an API key. I decided to route the request through a proxy so that I don't have to make my API key public.
+
 **Roughly speaking, the following steps are currently necessary:**
 
 1. First you have to register with OpenAI and get an API key.
